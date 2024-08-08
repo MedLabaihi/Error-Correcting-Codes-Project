@@ -41,7 +41,7 @@ This script demonstrates the implementation of cyclic codes. It includes functio
 - Generating circular permutations of an array.
 - Encoding messages using a generator matrix.
 
-### [Hamming (7,4) Code Script](./CodeHamming(7,4).py)
+### [Hamming (7,4) Code Script](./CodeHamming74.py)
 
 This script handles the Hamming (7,4) code and includes functions for:
 - Generating random 4-bit messages.
@@ -61,7 +61,7 @@ The `CodeGennarateur` script is designed to demonstrate encoding and error corre
 
 This script is useful for understanding how different generator matrices affect the encoding process and how errors can be handled in practice.
 
-### [Hamming (8,4) Code Script](./CodeHamming(8,4).py)
+### [Hamming (8,4) Code Script](./CodeHamming84.py)
 
 The `CodeHamming84` script focuses on encoding and decoding using the (8,4) Hamming code. It features:
 - **Message Encoding**: Converts a 4-bit message into an 8-bit codeword using the Hamming (8,4) generator matrix.
