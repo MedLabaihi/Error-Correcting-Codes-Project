@@ -84,7 +84,7 @@ This script simulates the use of Golay (24,12,8) codes for encoding and decoding
 For any questions or feedback regarding this project, please contact:
 
 - **Name**: Labaihi Mohammed
-- **Email**: [m.labaihi@gmail.com]
+- **Email**: m.labaihi@gmail.com
 - **GitHub**: [Labaihi Mohammed](https://github.com/MedLabaihi)
 
 Feel free to contribute to this project or reach out for further discussions on coding theory and its applications.
